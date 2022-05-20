@@ -3,7 +3,9 @@
   Tela de login - Decode #030
 </h1>
 
-![cover](.github/screen.png?style=flat)
+<div align="center">
+  <img src="/.github/screen.png" align="center" />
+</div>
 
 ## 💻 Projeto
 O projeto é uma tela de login, um simples aplicativo de estudo feito na live da rocketseat, [Decode #030](https://www.youtube.com/watch?v=JEKZc_rkqgc&ab_channel=Rocketseat) para aprender a integração e utilização do [NativeBase](https://nativebase.io/) em um app 💚
